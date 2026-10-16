@@ -1,5 +1,3 @@
-<img width="644" height="383" alt="fenmian" src="https://github.com/user-attachments/assets/d16af761-910e-4035-9803-dc4d19b9b5a7" /># 收不到 Telegram 验证码怎么办？一篇讲清常见原因与解决方法
-
 收不到 Telegram 验证码，是注册或登录过程中比较常见的问题。
 
 有人反复请求验证码，却始终收不到短信；有人明明网络正常，页面却提示请求失败；不同情况背后的原因并不相同，解决方法也有所区别。
