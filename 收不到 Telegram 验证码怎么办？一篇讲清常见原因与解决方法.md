@@ -4,7 +4,7 @@
 
 那么，收不到 Telegram 验证码时怎么办？本文将从网络环境、账号状态、手机设置等方面，梳理 Telegram 收不到验证码的常见原因与处理方法。
 
-![收不到 Telegram 验证码怎么办]!<img width="580" height="385" alt="wenzidengm" src="https://github.com/user-attachments/assets/2cd499fa-ec6c-45fe-848f-8a8ef5820517" />
+!<img width="580" height="385" alt="wenzidengm" src="https://github.com/user-attachments/assets/2cd499fa-ec6c-45fe-848f-8a8ef5820517" />
 
 ## 一、Telegram 收不到验证码的常见表现
 
@@ -32,7 +32,7 @@ Telegram 会对请求来源的 IP 进行风险评估。使用高密度共享节�
 
 **解决方法：**可以给环境配置独享住宅代理以优化网络线路，确保出口 IP 的归属地和网络类型与真实用户一致。建议选择 IPFoxy 这类专业 IP 代理服务商，提供真实、干净、独享住宅代理 IP，搭配纯净无异常历史的设备，让账号出口 IP 更加真实可信，接近本地真实用户环境，有效降低验证码被拦截概率。
 
- ![IPFOxy]!<img width="716" height="498" alt="zw" src="https://github.com/user-attachments/assets/c0bdcbf8-c26c-4da5-8c3d-7063eebfb6f0" />
+ !<img width="716" height="498" alt="zw" src="https://github.com/user-attachments/assets/c0bdcbf8-c26c-4da5-8c3d-7063eebfb6f0" />
 
 ### 2. 账号触发平台风控
 
@@ -62,7 +62,7 @@ Telegram 会对请求来源的 IP 进行风险评估。使用高密度共享节�
 - **没有设置 Passkey 或是新用户：**可以尝试切换网页版避开直接付款。
 - 若账号非常重要且所有免费方法都无效，再选择通过官方渠道进行正规充值。
 
- ![SMS Fee]<img width="229" height="308" alt="sms" src="https://github.com/user-attachments/assets/222b4bcf-de31-4b88-ae63-e8f74e04306d" />
+ <img width="229" height="308" alt="sms" src="https://github.com/user-attachments/assets/222b4bcf-de31-4b88-ae63-e8f74e04306d" />
 
 
 ## 三、Telegram 接收验证码的注意事项
